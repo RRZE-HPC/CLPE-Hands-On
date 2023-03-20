@@ -30,9 +30,11 @@ for (int i=0; i<N; ++i) {
 
 ### ASM loop(s):
 
+
 | Compiler | Flags |
-|==========|=======|
+|----------|-------|
 | icc 2021.6.0 | `-Ofast -qopenmp-simd -xHost -qopt-zmm-usage=low -fargument-noalias -funroll-loops -fno-builtin` |
+
 
 ```assembly
 ..B1.49:                        # Preds ..B1.49 ..B1.48
