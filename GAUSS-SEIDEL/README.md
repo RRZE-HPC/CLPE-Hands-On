@@ -2,8 +2,8 @@
 
 ## Import project
 
-You can find the code including timing and measurement harness in the `ce_project` directory.
-** Please keep in mind that this project will not work out of the box for the standard Compiler Explorer (CE) due to the requirement of a `perf_event_paranoid` level of `<= 0` for the linux kernel. **
+You can find the code including timing and measurement harness in the `ce_project` directory.  
+**Please keep in mind that this project will not work out of the box for the standard Compiler Explorer (CE) due to the requirement of a `perf_event_paranoid` level of `<= 0` for the linux kernel.**  
 You can import the project into the [Compiler Explorer](https://godbolt.org/) or any locally running instance by doing the following steps:
 1. Create a zip repository from the `ce_project` directory, e.g.: `zip -r proj.zip ce_project/`
 2. In the Compiler Explorer, click "_Add..._" in the top menu bar and select "_Tree (IDE Mode)_"
