@@ -6,4 +6,4 @@ Please see the importable CE projects within the example directories to run on y
 
  - [Dot Product](https://godbolt.org/z/zbP6TbEdG)
  - [PI by integration](https://godbolt.org/z/7T18TEnxb)
- - [Gauss-Seidel](#todo)
+ - [Gauss-Seidel](https://godbolt.org/z/frKdExTPs)
