@@ -1,5 +1,4 @@
-# Dot Product
-
+# Gauss-Seidel
 ## Import project
 
 You can find the code including timing and measurement harness in the `ce_project` directory.  
